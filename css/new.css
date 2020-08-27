@@ -1,0 +1,123 @@
+
+body{
+	background-color:white;
+	
+}
+
+
+
+
+/* 
+registration starts */
+
+.reg{
+	padding:6%;
+	background-color:#F9F8FF;
+	margin:0px 30%;
+	margin-top:5%;
+	display:block;
+	text-align:center;
+	
+}
+
+.reg label{
+	
+	font-size:24px;
+	
+	
+}
+
+
+
+/* 
+login starts */
+
+.log{
+	padding:6%;
+	background-color:#F9F8FF;
+	margin:0px 30%;
+	margin-top:5%;
+	display:block;
+	text-align:center;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+test or dataresult */
+
+
+.ins{
+	padding-right:50%;
+	background-color:#F9F8FF;
+	margin-bottom:200px;
+}
+
+.name{
+	text-transform:capitalize;
+	margin-bottom:100px;
+	text-align:center;
+}
+
+.question{
+	
+	font-size:30px;
+	padding-left:30px;
+	background-color:#F9F8FF;
+}
+
+@media screen and (orientation:portrait){
+	.question{
+	
+	font-size:70px;
+	padding-left:30px;
+	background-color:#F9F8FF;
+}
+}
+
+.question label{
+	margin:20px;
+}
+
+.sub{
+	cursor:pointer;
+	background: #F9F8FF;
+	margin:30px;
+	color: black;
+	float:right;
+	border-style: outset;
+	border-color: #F9F8FF;
+	height: 50px;
+	width: 100px;
+	font: bold 15px arial, sans-serif;
+	text-shadow:none;
+	font-size:20px;
+	
+}
+
+
+
+
+
+
