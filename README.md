@@ -1,1 +1,1 @@
-# quiz
+#simple php site for register,login,quiz
